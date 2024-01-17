@@ -1,5 +1,6 @@
 # Agatha Suarez
 ## Core Skills
+I’m able to work by myself to make some products, but have some skills to work in teams if necessary.
 ## Education
 ### Educational institutions
 Elementary school ー school №60
@@ -18,7 +19,7 @@ Standart Level ー SElf Taught, Math AA, English B
 
 ## Technical Experience:
 ### Electronic Crypto Wallet
-### 
+### Weather project
 
 ## Awards:
 
