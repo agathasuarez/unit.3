@@ -18,6 +18,9 @@ Standart Level ー SElf Taught, Math AA, English B
 
 ## Technical Experience:
 ### Electronic Crypto Wallet
+
+Creating a digital ledger for cryptocurrency SHIBA. It lets you watch all transactions, balance,  top up accounts, exchange money, etc. The crypto wallet has simple design to make using available for everyone 
+
 ### Weather project
 
 ## Contact information: 
