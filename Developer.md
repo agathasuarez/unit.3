@@ -20,10 +20,12 @@ Standart Level ー SElf Taught, Math AA, English B
 ### Electronic Crypto Wallet
 ### Weather project
 
-## Awards:
-
 ## Contact information: 
 
 2025.agatha.suarez@uwcisakjapan
 
 2416 64th St, apt 2R, Brooklyn, New York, USA 11204
+
+
+
+
