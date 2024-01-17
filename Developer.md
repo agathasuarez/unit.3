@@ -1,7 +1,6 @@
 # Agatha Suarez
 ## Core Skills
-I’m able to work by myself to make some products, but have some skills to work in teams if necessary.
-## Education
+I like analyzing information and a creative approach for tasks. I'm comfortable working independently to deliver quality results, but also have some teamwork skills for collaborative projects
 ### Educational institutions
 Elementary school ー school №60
 
